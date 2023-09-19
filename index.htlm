@@ -40,71 +40,71 @@
                 </tr> 
 
                 <tr> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">8:00AM-8:50AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">Homeroom</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">8:20AM-9:10AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">Mathematics 3</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">8:20AM-9:10AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">8:20AM-9:10AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> Filipino 3 </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> Music 3</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">8:00AM-8:50AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">Homeroom</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">8:20AM-9:10AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">Mathematics 3</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">8:20AM-9:10AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">8:20AM-9:10AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> Filipino 3 </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> Music 3</th> 
 
                 </tr> 
                 
                 <tr> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">8:50AM-9:40AM</th>
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">Filipino 3</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">9:10AM-9:30AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">9:10AM-9:30AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">9:10AM-9:30AM</th> 
-                <th colspan="2"  style =" padding:10px; border-style:solid; border-width:1px black;"> RECESS </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">8:50AM-9:40AM</th>
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">Filipino 3</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">9:10AM-9:30AM</th> 
+                      <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">9:10AM-9:30AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">9:10AM-9:30AM</th> 
+                    <th colspan="2"  style =" padding:10px; border-style:solid; border-width:1px black;"> RECESS </th> 
 
                 </tr> 
 
                 <tr> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">9:40AM-10:00AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">9:30AM-10:20AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> English 3 </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">9:30AM-10:20AM</th> 
-                <th rowspan= "2" style =" padding:10px; border-style:solid; border-width:1px black;"> Statistics 1 </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">9:30AM-10:20AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> Computer Science 3</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> 9:30AM-10:20AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">9:40AM-10:00AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">9:30AM-10:20AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> English 3 </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">9:30AM-10:20AM</th> 
+                    <th rowspan= "2" style =" padding:10px; border-style:solid; border-width:1px black;"> Statistics 1 </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">9:30AM-10:20AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> Computer Science 3</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> 9:30AM-10:20AM</th> 
 
                 </tr> 
 
                 <tr> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">10:00AM-10:50AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> Physical Eduation 3 </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">7:30AM-8;20AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> Values Eduation 3 </th>
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">8:30AM-9:20AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">8:30AM-9:20AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> Computer Science 3</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> Physics 1</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">10:00AM-10:50AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> Physical Eduation 3 </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">10:20AM-11:10AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> Values Eduation 3 </th>
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">8:30AM-9:20AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">8:30AM-9:20AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> Computer Science 3</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> Physics 1</th> 
 
                 </tr> 
                 
                 <tr> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">10:50AM-11:40AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> English 3 </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">11:10AM-12:10AM </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> LUNCH </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">11:10AM-12:10AM </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> LUNCH</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">11:10AM-12:10AM </th> 
-                <th colspan="2" style =" padding:10px; border-style:solid; border-width:1px black;"> LUNCH</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">10:50AM-11:40AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> English 3 </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">11:10AM-12:10AM </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> LUNCH </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">11:10AM-12:10AM </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> LUNCH</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">11:10AM-12:10AM </th> 
+                    <th colspan="2" style =" padding:10px; border-style:solid; border-width:1px black;"> LUNCH</th> 
 
                 </tr> 
 
                 <tr> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">11:40AM-12:40AM</th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
-                <th style =" padding:5px; border-style:solid; border-width:1px black;">12:10am-4:30PM</th> 
-                <th colspan="6" style =" padding:10px; border-style:solid; border-width:1px black;"> AFTERNOON CLASS </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">11:40AM-12:40AM</th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;"> RECESS </th> 
+                    <th style =" padding:5px; border-style:solid; border-width:1px black;">12:10am-4:30PM</th> 
+                    <th colspan="6" style =" padding:10px; border-style:solid; border-width:1px black;"> AFTERNOON CLASS </th> 
                 </tr> 
         </center> 
     </Body>
